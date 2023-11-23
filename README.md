@@ -26,10 +26,12 @@
 # Images from the project
 
 ## Turkish
-![kokbulucu1](https://github.com/NumaIYI/Equation-root-finder/assets/128406291/4d512b1f-c380-4a10-843a-d701ca73fc40)
+![kokbulucu1](https://github.com/NumaIYI/Equation-root-finder/assets/128406291/e8544264-cbe6-44da-b76d-563ded27c750)
+
 
 ## English
-![kokbulucu2](https://github.com/NumaIYI/Equation-root-finder/assets/128406291/735f5358-9c9e-4a66-864c-4a5abf29a74a)
+![kokbulucu2](https://github.com/NumaIYI/Equation-root-finder/assets/128406291/603a1a73-3172-45e8-a86f-d50c4072c26d)
+
 
 ----
 ## Function Table
