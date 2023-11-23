@@ -17,9 +17,9 @@
 
 - ### 6- We also have a language option in the upper right corner.
 
-- ### 8- If you have any problems, you can send me a message.
+- ### 7- If you have any problems, you can send me a message.
 
-- ### 9- Thanks for your time.
+- ### 8- Thanks for your time.
 
 ----
 
